@@ -1,5 +1,5 @@
 ﻿# Proyecto_universidad
 Sistema de ventas
-Luis Sandoval Equipo #5
+Luis Sandoval
 IN 330 
 ced. 30913653
