@@ -1,0 +1,4 @@
+En esta versión ya se tiene una idea clara acerca de a donde va a ir el proyecto, pero todavía falta mucho para 
+llegar a su climax, aquí en esta versión ya se encuentra disponible una nueva versión del modelo de entidad
+de relaciones, además que se implementa la primera versión del diccionario de datos, que explica acerca
+de la funcionalidad de cada tabla y los campos que se tienen hasta ahora
