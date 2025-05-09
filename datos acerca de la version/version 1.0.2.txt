@@ -1,0 +1,5 @@
+Esta versión esta enfocada en reforzar la base de datos en el apartado interno del local, descartando temporalmente
+las tablas de clientes y ventas hasta tener una mejor estructura. Se agrego la tabla historial_compra
+para manejar el historial de compras que se le realice a un proveedor, categoría_productos que se encargara
+de dividir el almacen de los productos en diferentes categorías, la tabla cargo, y datos tabajadores
+para reforzar los datos acerca de los empleados y su status actual dentro del local
