@@ -1,0 +1,1 @@
+Solo se realizaron cambios menores en la tabla datos_ventas
