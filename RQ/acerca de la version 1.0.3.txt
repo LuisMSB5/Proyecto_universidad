@@ -1,5 +1,0 @@
-En esta versión se implemento nuevamente la tabla de clientes junto con la tabla datos_clientes que permite
-almacenar los datos del cliente, además que se implemento la tabla de venta_datos que almacena los datos
-de una venta, la tabla de venta para calcular el total de todos los productos con el mismo código de venta
-además de el tipo de venta y forma de pago, para asi lograr que el negocio pueda tener no uno sino multiples
-medios de pago y maneras diferentes de servicios, para asi poder destacar más entre la competencia

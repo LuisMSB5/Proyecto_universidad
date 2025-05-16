@@ -1,0 +1,3 @@
+En esta versión ya se dio inicio al modelo físico y con varios registros de prueba, con un máximo de 20 registros por cada tabla
+además que se implemento el modelo relaciona para mostrar con otro diagrama como luce las relaciones entre cada tabla, y se realizaron
+cambios menores en el modelo de entidad, donde se cambiaron unos datos de not null a null, y se mejoro el diseño de dicho modelo
